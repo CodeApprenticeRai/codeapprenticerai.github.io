@@ -28,6 +28,10 @@ body {
     padding-top: 0.50rem;
 }
 
+#time-left-header {
+    text-decoration: underline;
+}
+
 #timer {
   text-align: center;
 }
