@@ -1,0 +1,17 @@
+body {
+	background: #dee2e6;
+}
+
+p {
+	margin-top: 0rem;
+	margin-bottom: 0rem;
+	font-size: 2vmin;
+}
+
+.just-padding {
+	 margin-top: 2vmin;
+}
+
+li {
+	font-size: 2vmin;
+}
