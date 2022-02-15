@@ -5,11 +5,9 @@ body {
 p {
 	margin-top: 0rem;
 	margin-bottom: 0rem;
-	font-size: 2vmin;
 }
 
 #main-container {
-	font-size: 2vmin;
   border-left: black solid;
 }
 
