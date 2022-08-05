@@ -14,3 +14,7 @@ p {
 .just-padding {
 	margin-top: 2vmin;
 }
+
+.btn-secondary {
+	background-color: #343a40 !important;
+}
